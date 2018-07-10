@@ -21,3 +21,13 @@ Favorite bands with 'Black' in the title:
 3. Black Keys
 
 If you reallllly want me to explain why, just run `rm -rf /` and let me know when you're done.
+
+
+## Recipes
+
+name | ingredient1 | ingredient2 | result
+---|---|---|---
+pb&j | pb | j | delicious
+nachos | chip | cheese | scrumptious
+michigan water | water | lead | poisonous
+
